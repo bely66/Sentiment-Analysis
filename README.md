@@ -24,3 +24,8 @@
  ```
  python test.py 
  ```
+ ## Running the algorithm on the data
+  main.py tests different parameters  
+  ```
+  python main.py
+  ```
